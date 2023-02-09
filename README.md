@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NLNhiTran
-- 👀 I’m interested in ML applications in Sustainable Finance.
-- 🌱 I’m currently learning NLP. 
+- 👀 I’m currently learning NLP. 
+- 🌱 I’m interested in ML applications in Sustainable Finance.
 - 💞️ I’m looking to collaborate on ML problems related to Sustainable Finance, Risk Modelling, Time Series Forecasting
 - 📫 Reach me at linkedin.com/in/nlntran
 <!---
